@@ -30,10 +30,10 @@
 "vungle_reward":"REWARD-7025613",
 
   
- "more_apps_info":[
-  {"name":"Todos Los PSX2 Para Android","package_name":"com.psx2tados.paraandroid","icon":"https://play-lh.googleusercontent.com/7jERzJBovHSpRBe3tKSpdf0MCOXx1ni4UrmBlQT5W_XtV8t9iyZEcZImAeaiIlBFvcE=w240-h480-rw"},
-  {"name":"Todos Los FYFA Para Android","package_name":"com.fyfalos.todosparaandroid","icon":"https://play-lh.googleusercontent.com/hjz-J2S2CDdCCdnoIs9EGsZu-PSNKbzgkBK7mgWsUu442MrulTm-CDEhDgqNPG_lelcI=w240-h480-rw"},
-  {"name":"Todos Los DRABZ Para Android","package_name":"com.ddrabz.losdrabzandroid","icon":"https://play-lh.googleusercontent.com/41CnffhLGz8cSojhcsz0E-rk0fSIl6yJTMjCE2QdGARaE5X87dPhT4oPdswIC65aAbY=w240-h480-rw"}
+re_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
    ],
 
 "download_dialog_txt":"download text from server",
