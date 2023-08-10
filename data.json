@@ -19,10 +19,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2566926-1",
+"yandex_inter":"R-M-2566926-3",
+"yandex_native":"R-M-2566926-2",
+"yandex_reward":"R-M-2566926-4",
   
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
@@ -31,27 +31,32 @@
 
   
  "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"Todos Los PSX2 Para Android","package_name":"com.psx2tados.paraandroid","icon":"https://play-lh.googleusercontent.com/7jERzJBovHSpRBe3tKSpdf0MCOXx1ni4UrmBlQT5W_XtV8t9iyZEcZImAeaiIlBFvcE=w240-h480-rw"},
+  {"name":"Todos Los FYFA Para Android","package_name":"com.fyfalos.todosparaandroid","icon":"https://play-lh.googleusercontent.com/hjz-J2S2CDdCCdnoIs9EGsZu-PSNKbzgkBK7mgWsUu442MrulTm-CDEhDgqNPG_lelcI=w240-h480-rw"},
+  {"name":"Todos Los DRABZ Para Android
+","package_name":"com.ddrabz.losdrabzandroid","icon":"https://play-lh.googleusercontent.com/41CnffhLGz8cSojhcsz0E-rk0fSIl6yJTMjCE2QdGARaE5X87dPhT4oPdswIC65aAbY=w240-h480-rw"}
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"In today's fast-paced world, staying organized is essential to maintaining productivity and managing daily tasks efficiently. Android smartphones have become an integral part of our lives, serving as powerful tools to help us keep track of our responsibilities. One such app that aims to simplify task management is "Todos Los DELS Para Android." In this article, we will delve into the features, benefits, and usage of this app, exploring how it can streamline your life and enhance your productivity.
+
+",
+   "photo1":"https://iili.io/HDfkks1.png"},
+  {"desc2":""Todos Los DELS Para Android" is a task management application designed specifically for Android devices. Its name translates to "All the TODOS for Android," indicating its commitment to providing a comprehensive solution for managing tasks, to-dos, and responsibilities. The app offers a user-friendly interface and a range of features that cater to users seeking an effective way to organize their daily lives.
+
+","photo2":"https://iili.io/HDfkVUb.webp"},
+  {"desc3":"Task Creation and Categorization: The app allows users to create tasks quickly and assign them to specific categories. Whether it's work-related, personal, or academic, you can organize your tasks in a way that makes sense to you.","photo3":"https://iili.io/HDfkjOQ.png"},
+  {"desc4":"Priority Settings: Not all tasks are created equal, and "Todos Los DELS Para Android" understands that. You can set priorities for your tasks, ensuring that you tackle the most important ones first.","photo4":"https://iili.io/HDfkXJj.jpg"},
+  {"desc5":"Due Dates and Reminders: To prevent tasks from slipping through the cracks, the app lets you set due dates and reminders. This feature is crucial for time-sensitive tasks and helps you stay on track.","photo5":"https://iili.io/HDfk8qF.png"},
+  {"descd":"Increased Productivity: With tasks organized and prioritized, you can focus your energy on completing them efficiently, leading to increased productivity.","photod":"https://iili.io/HDfkjOQ.png"}
    ]
  
 }
